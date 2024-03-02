@@ -1,5 +1,5 @@
 # assignment_2
-Assignment Number: Gene Half-Life Analysis
+Assignment 2: Gene Half-Life Analysis
 Author:
 Asra Tasneem Shaik
 
